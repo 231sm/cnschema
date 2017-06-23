@@ -19,7 +19,7 @@
         }, 
         {
             "@id": "http://cnschema.org/AboutPage", 
-            "alternateName": [], 
+            "alternateName": [关于], 
             "category": "type", 
             "description": "Web page type: About page.", 
             "descriptionZh": "网页类型，介绍网站所代表的组织或个人", 
